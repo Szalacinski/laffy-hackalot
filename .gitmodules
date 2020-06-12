@@ -1,0 +1,3 @@
+[submodule "ch341prog"]
+	path = ch341prog
+	url = https://github.com/setarcos/ch341prog

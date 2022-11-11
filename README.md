@@ -37,4 +37,4 @@ Write the bin file to Laffy:
 If you find that the clips are too distorted, simply remove the `gain -n 5` from laffy.sh
 
 
-CH341 programmer: (AFFILIATE LINK)
+[Why you should get the green CH341 programmer and an IC clip](https://www.reddit.com/r/coreboot/comments/azabhl/choosing_a_ch341a_programmer/)
